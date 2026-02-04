@@ -60,7 +60,7 @@ Simply open `index.html` in any modern web browser to view the resume. No additi
 
 ## Screenshot
 
-![Resume Screenshot](screenshot.jpg)
+![Resume Screenshot](./cypherninjaa.github.io_Assignments_.png)
 
 ##  Live Demo
 
